@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519396537 source:c:\users\anthony lamour\documents\ludus academie\c\tpc_f2_fichier_22022018_lamour_anthony\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
